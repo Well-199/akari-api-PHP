@@ -1,0 +1,134 @@
+[15-Aug-2021 01:49:03 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'wellsi00_admin'@'localhost' (using password: YES) in /home1/wellsi00/public_html/app/akari/config.php:7
+Stack trace:
+#0 /home1/wellsi00/public_html/app/akari/config.php(7): PDO->__construct('mysql:dbname=we...', 'wellsi00_admin', '[dzo=4570]')
+#1 /home1/wellsi00/public_html/app/akari/api/login.php(2): require('/home1/wellsi00...')
+#2 {main}
+  thrown in /home1/wellsi00/public_html/app/akari/config.php on line 7
+[15-Aug-2021 01:49:19 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'wellsi00_admin'@'localhost' (using password: YES) in /home1/wellsi00/public_html/app/akari/config.php:7
+Stack trace:
+#0 /home1/wellsi00/public_html/app/akari/config.php(7): PDO->__construct('mysql:dbname=we...', 'wellsi00_admin', '[dzo=4570]')
+#1 /home1/wellsi00/public_html/app/akari/api/login.php(2): require('/home1/wellsi00...')
+#2 {main}
+  thrown in /home1/wellsi00/public_html/app/akari/config.php on line 7
+[15-Aug-2021 01:50:17 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'wellsi00_admin'@'localhost' (using password: YES) in /home1/wellsi00/public_html/app/akari/config.php:7
+Stack trace:
+#0 /home1/wellsi00/public_html/app/akari/config.php(7): PDO->__construct('mysql:dbname=we...', 'wellsi00_admin', '[dzo=4570]')
+#1 /home1/wellsi00/public_html/app/akari/api/pedidos.php(2): require('/home1/wellsi00...')
+#2 {main}
+  thrown in /home1/wellsi00/public_html/app/akari/config.php on line 7
+[15-Aug-2021 01:52:41 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'wellsi00_admin'@'localhost' (using password: YES) in /home1/wellsi00/public_html/app/akari/config.php:7
+Stack trace:
+#0 /home1/wellsi00/public_html/app/akari/config.php(7): PDO->__construct('mysql:dbname=we...', 'wellsi00_admin', '[dzo=4570]')
+#1 /home1/wellsi00/public_html/app/akari/api/pedidos.php(2): require('/home1/wellsi00...')
+#2 {main}
+  thrown in /home1/wellsi00/public_html/app/akari/config.php on line 7
+[15-Aug-2021 01:52:44 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'wellsi00_admin'@'localhost' (using password: YES) in /home1/wellsi00/public_html/app/akari/config.php:7
+Stack trace:
+#0 /home1/wellsi00/public_html/app/akari/config.php(7): PDO->__construct('mysql:dbname=we...', 'wellsi00_admin', '[dzo=4570]')
+#1 /home1/wellsi00/public_html/app/akari/api/pedidos.php(2): require('/home1/wellsi00...')
+#2 {main}
+  thrown in /home1/wellsi00/public_html/app/akari/config.php on line 7
+[15-Aug-2021 01:54:14 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'wellsi00_admin'@'localhost' (using password: YES) in /home1/wellsi00/public_html/app/akari/config.php:7
+Stack trace:
+#0 /home1/wellsi00/public_html/app/akari/config.php(7): PDO->__construct('mysql:dbname=we...', 'wellsi00_admin', '[dzo=4570]')
+#1 /home1/wellsi00/public_html/app/akari/api/pedidos.php(2): require('/home1/wellsi00...')
+#2 {main}
+  thrown in /home1/wellsi00/public_html/app/akari/config.php on line 7
+[15-Aug-2021 01:56:57 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'wellsi00_admin'@'localhost' (using password: YES) in /home1/wellsi00/public_html/app/akari/config.php:7
+Stack trace:
+#0 /home1/wellsi00/public_html/app/akari/config.php(7): PDO->__construct('mysql:dbname=we...', 'wellsi00_admin', '[dzo=4570]')
+#1 /home1/wellsi00/public_html/app/akari/api/pedidos.php(2): require('/home1/wellsi00...')
+#2 {main}
+  thrown in /home1/wellsi00/public_html/app/akari/config.php on line 7
+[15-Aug-2021 02:01:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:01:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:01:08 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:02:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:02:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:02:10 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:02:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:02:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:02:17 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:02:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:02:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:02:20 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:02:58 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:02:58 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:02:58 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:05:43 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:05:43 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:05:43 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:05:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:05:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:05:55 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:06:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:06:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:06:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:06:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:06:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:06:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:07:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:07:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:07:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:11:28 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:11:28 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:11:28 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:15:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:15:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:15:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:18:26 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:18:26 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:18:26 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:20:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:20:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:20:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:21:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:21:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:21:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:21:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:21:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:21:16 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:21:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:21:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:21:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:23:24 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:23:24 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:23:24 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:23:31 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:23:31 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:23:31 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:23:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:23:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:23:46 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:27:18 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:27:18 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:27:18 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:27:18 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:27:18 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:27:18 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:27:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:27:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:27:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:27:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:27:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:27:39 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:27:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:27:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:27:54 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:31:06 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:31:06 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:31:06 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[15-Aug-2021 02:32:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 2
+[15-Aug-2021 02:32:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 3
+[15-Aug-2021 02:32:37 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/wellsi00/public_html/app/akari/config.php:14) in /home1/wellsi00/public_html/app/akari/return.php on line 4
+[04-Sep-2021 02:06:16 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home1/wellsi00/public_html/app/akari/api/novo_pedido.php on line 37
+[04-Sep-2021 02:21:47 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home1/wellsi00/public_html/app/akari/api/novo_pedido.php on line 37
+[04-Sep-2021 02:25:39 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home1/wellsi00/public_html/app/akari/api/novo_pedido.php on line 37
+[04-Sep-2021 02:30:29 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home1/wellsi00/public_html/app/akari/api/novo_pedido.php on line 37
+[04-Sep-2021 02:33:37 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'wellsi00_admin'@'localhost' (using password: YES) in /home1/wellsi00/public_html/app/akari/config.php:7
+Stack trace:
+#0 /home1/wellsi00/public_html/app/akari/config.php(7): PDO->__construct('mysql:dbname=we...', 'wellsi00_admin', '[dzo=4570]')
+#1 /home1/wellsi00/public_html/app/akari/api/login.php(2): require('/home1/wellsi00...')
+#2 {main}
+  thrown in /home1/wellsi00/public_html/app/akari/config.php on line 7
+[04-Sep-2021 02:41:40 America/Fortaleza] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home1/wellsi00/public_html/app/akari/api/novo_pedido.php on line 37
